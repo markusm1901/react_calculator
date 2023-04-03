@@ -1,0 +1,73 @@
+body{
+    overflow: hidden;
+    margin-top: 150px;
+    background-image: linear-gradient(to right, rgb(200, 0, 255) , rgb(0, 157, 255));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+
+.box{
+    background-color: rgb(203, 56, 56);
+    /* opacity: .5;  */
+    position: relative;
+    left: 40%;
+    width: 15%;
+}
+
+.box button{
+    background-color: transparent;
+    border: 1px solid grey;
+    border-radius: 7px;
+    cursor: pointer;
+    padding: 20px 25px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+
+.box button:hover{
+    background-color: rgb(18, 22, 237);
+    color: white;
+    opacity: .5;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.center{
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.bin{
+    border: 1px solid grey;
+    padding: 20px 25px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.dec{
+    border: 1px solid grey;
+    padding: 20px 25px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.oct{
+    border: 1px solid grey;
+    padding: 20px 25px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.hex{
+    border: 1px solid grey;
+    padding: 20px 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.inf{
+    border: 1px solid grey;
+    padding: 5px 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
