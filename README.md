@@ -1,2 +1,5 @@
-#Calculator Application using ReactJS and Reverse Polish Notation
-This calculator application is built using ReactJS and implements the Reverse Polish Notation (RPN) algorithm. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+# React RPN Calculator
+## This is a calculator application written in React.js that uses Reverse Polish Notation (RPN) to perform mathematical operations.
+Features
+Support for basic arithmetic operations: addition, subtraction, multiplication, and division.
+Use of Reverse Polish Notation (RPN) to perform mathematical operations.
