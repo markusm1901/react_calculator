@@ -7,9 +7,6 @@ export const Keypad =(prop)=>{
         <div className="box">
         <div className="center">
             { operations.map((el, index)=>{
-                if(index===6){
-                return(<div><button type="button" onClick={() => prop.res()} value={el}>{el}</button> <br></br> </div>) 
-                }
                 if(el==='='){
                 return(<button type="button" onClick={() => prop.res()} value={el}>{el}</button>)
                 }
