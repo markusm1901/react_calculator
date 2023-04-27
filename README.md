@@ -1,4 +1,4 @@
-# React RPN Calculator
+# React Calculator
 ## This is a calculator application written in React.js 
 Features
 Support for basic arithmetic operations: addition, subtraction, multiplication, and division.
